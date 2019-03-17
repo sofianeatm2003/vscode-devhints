@@ -1,6 +1,13 @@
-# vscode-devhints
+# DevHints VS Code Extension
 
-> [Visual studio code Extension](https://code.visualstudio.com) to search cheatheets on [https://devhints.io](devhints) and forks.
+> [Visual studio code Extension](https://code.visualstudio.com) to search cheatheets on [DevHints](https://devhints.io) and forks.
+
+---
+
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/brpaz.devhints.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=brpaz.devhints)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/brpaz.devhints.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=brpaz.devhints)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/brpaz.devhints.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=brpaz.devhints)
+![License](https://img.shields.io/github/license/brpaz/vscode-devhints.svg?style=for-the-badge)
 
 ![demo](demo.gif)
 
@@ -19,6 +26,7 @@
 This extension contributes the following settings:
 
 - `devhints.base_url`: Configure the "base url" of DevHints website. By default, its set to "https://devhints.io" but you can change it, for example, if you have your own fork.
+
 
 ## Contributing
 
