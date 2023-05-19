@@ -39,3 +39,5 @@ This extension contributes the following settings:
 ## License
 
 MIT. See [LICENSE](LICENSE) file for details.
+
+updated
